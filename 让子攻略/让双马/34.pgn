@@ -1,0 +1,104 @@
+[Game "Chinese Chess"]
+[Event ""]
+[Round ""]
+[Date "2018.11.10"]
+[Site ""]
+[RedTeam ""]
+[Red "cyclonex"]
+[BlackTeam ""]
+[Black "apo_x64"]
+[TimeControl "*3"]
+[RedTime "33.048"]
+[BlackTime "27.311"]
+[Result "*"]
+[ECCO ""]
+[Opening ""]
+[Variation ""]
+[FEN "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/R1BAKAB1R w - - 0 1"]
+  1. 炮二平五 {score:0 time:656 side:1}
+     马８进７ {score:0 time:1594}
+  2. 车一平二 {score:-846 time:6906}
+     士４进５ {score:-828 time:719}
+  3. 炮八平七 {score:-778 time:687}
+     马２进１ {score:-816 time:672}
+  4. 车九平八 {score:-834 time:688}
+     炮２平５ {score:-822 time:453}
+  5. 仕六进五 {score:-842 time:687}
+     车１平２ {score:-909 time:719}
+  6. 车八进九 {score:-845 time:688}
+     马１退２ {score:-935 time:672}
+  7. 兵七进一 {score:-877 time:234}
+     卒７进１ {score:-877 time:687}
+  8. 兵三进一 {score:-902 time:750}
+     卒７进１ {score:-964 time:688}
+  9. 车二进六 {score:-851 time:687}
+     象７进９ {score:-1036 time:688}
+ 10. 炮五平三 {score:-863 time:672}
+     马７进６ {score:-863 time:687}
+ 11. 车二进一 {score:-821 time:688}
+     马６进５ {score:-797 time:437}
+ 12. 相三进五 {score:-814 time:688}
+     卒７进１ {score:-797 time:687}
+ 13. 炮三平一 {score:-764 time:688}
+     马２进１ {score:-729 time:687}
+ 14. 炮七平九 {score:-563 time:266}
+     马５退６ {score:-735 time:687}
+ 15. 兵七进一 {score:-675 time:672}
+     车９平７ {score:-675 time:688}
+ 16. 兵七平六 {score:-709 time:719}
+     车７进４ {score:-709 time:218}
+ 17. 车二退三 {score:-707 time:703}
+     卒７平６ {score:-816 time:688}
+ 18. 车二平四 {score:-786 time:687}
+     炮５平６ {score:-850 time:672}
+ 19. 车四平八 {score:-780 time:266}
+     马６进７ {score:-780 time:703}
+ 20. 炮一平二 {score:-835 time:703}
+     车７平４ {score:-893 time:672}
+ 21. 兵九进一 {score:-885 time:703}
+     炮６平５ {score:-885 time:203}
+ 22. 车八平三 {score:-906 time:688}
+     车４平８ {score:-1039 time:672}
+ 23. 炮二平三 {score:-1027 time:687}
+     卒１进１ {score:-978 time:688}
+ 24. 车三进三 {score:-925 time:281}
+     车８平４ {score:-925 time:687}
+ 25. 兵九进一 {score:-964 time:672}
+     马７退８ {score:-964 time:688}
+ 26. 车三平二 {score:-840 time:687}
+     马８进９ {score:-840 time:250}
+ 27. 炮三退一 {score:-714 time:688}
+     车４平７ {score:-822 time:703}
+ 28. 炮九进五 {score:-636 time:687}
+     象３进１ {score:-763 time:688}
+ 29. 车二平五 {score:-638 time:266}
+     车７进４ {score:-755 time:671}
+ 30. 车五退一 {score:-670 time:704}
+     卒９进１ {score:-768 time:687}
+ 31. 兵九进一 {score:-691 time:734}
+     卒３进１ {score:-691 time:188}
+ 32. 车五退一 {score:-654 time:734}
+     车７退４ {score:-843 time:672}
+ 33. 车五平三 {score:-596 time:688}
+     象９进７ {score:-926 time:687}
+ 34. 相五退三 {score:-605 time:219}
+     卒３进１ {score:-996 time:687}
+ 35. 相三进一 {score:-613 time:735}
+     象１进３ {score:-1049 time:687}
+ 36. 兵九平八 {score:-670 time:719}
+     卒３进１ {score:-1059 time:688}
+ 37. 兵八平七 {score:-661 time:687}
+     卒９进１ {score:-1099 time:672}
+ 38. 兵七平六 {score:-688 time:703}
+     马９进７ {score:-1111 time:422}
+ 39. 帅五平六 {score:-704 time:750}
+     卒９进１ {score:-1141 time:672}
+ 40. 相一退三 {score:-715 time:687}
+     卒９平８ {score:-1166 time:688}
+ 41. 相三进五 {score:-1166 time:219}
+     卒３平４ {score:-1181 time:671}
+ 42. 相七进九 {score:-576 time:688}
+     卒６平５ {score:-1186 time:672}
+ 43. 相五退七 {score:-574 time:687}
+     卒８平７ {score:-1186 time:250}
+ *

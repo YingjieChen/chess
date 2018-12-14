@@ -1,0 +1,63 @@
+[Game "Chinese Chess"]
+[Event ""]
+[Round ""]
+[Date "2018.11.10"]
+[Site ""]
+[RedTeam ""]
+[Red "cyclonex"]
+[BlackTeam ""]
+[Black "apo_x64"]
+[TimeControl "*3"]
+[RedTime "19.141"]
+[BlackTime "15.312"]
+[Result "*"]
+[ECCO ""]
+[Opening ""]
+[Variation ""]
+[FEN "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/R1BAKAB1R w - - 0 1"]
+  1. 炮二平五 {score:0 time:1890 side:1}
+     象３进５ {score:0 time:2500}
+  2. 车一平二 {score:0 time:3922}
+     士４进５ {score:29999 time:1688}
+  3. 炮八平六 {score:-733 time:1375}
+     马２进１ {score:-802 time:687}
+  4. 车九平八 {score:-782 time:688}
+     炮２平３ {score:-797 time:687}
+  5. 炮五进四 {score:-653 time:438}
+     车１平４ {score:-789 time:672}
+  6. 仕六进五 {score:-628 time:687}
+     车４平２ {score:-800 time:672}
+  7. 车八进九 {score:-666 time:688}
+     马１退２ {score:-666 time:265}
+  8. 炮五平九 {score:-683 time:672}
+     卒９进１ {score:-683 time:688}
+  9. 炮九进三 {score:-593 time:687}
+     马２进４ {score:-593 time:672}
+ 10. 车二进四 {score:-601 time:297}
+     马４进２ {score:-601 time:656}
+ 11. 炮九平八 {score:-635 time:703}
+     卒９进１ {score:-635 time:672}
+ 12. 兵一进一 {score:-532 time:688}
+     车９进１ {score:-532 time:265}
+ 13. 炮六平八 {score:-437 time:688}
+     马８进９ {score:-437 time:672}
+ 14. 车二平八 {score:-174 time:718}
+     马２进３ {score:-174 time:672}
+ 15. 前炮平九 {score:-143 time:266}
+     炮８进４ {score:-143 time:672}
+ 16. 车八进五 {score:90 time:703}
+     士５退４ {score:90 time:687}
+ 17. 车八退一 {score:1251 time:672}
+     士４进５ {score:1251 time:235}
+ 18. 炮八进五 {score:29987 time:687}
+     炮８平５ {score:29987 time:688}
+ 19. 帅五平六 {score:29991 time:703}
+     炮３平４ {score:29991 time:672}
+ 20. 车八平七 {score:29993 time:265}
+     马３进４ {score:29993 time:297}
+ 21. 仕五进六 {score:29995 time:688}
+     马４退５ {score:29995 time:296}
+ 22. 帅六平五 {score:29997 time:672}
+     车９平６ {score:29997 time:297}
+ 23. 炮八进二 {score:29999 time:344}
+ *

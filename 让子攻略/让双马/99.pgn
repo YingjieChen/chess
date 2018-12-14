@@ -1,0 +1,74 @@
+[Game "Chinese Chess"]
+[Event ""]
+[Round ""]
+[Date "2018.11.13"]
+[Site ""]
+[RedTeam ""]
+[Red "cyclonex"]
+[BlackTeam ""]
+[Black "apo_x64"]
+[TimeControl "*3"]
+[RedTime "0.000"]
+[BlackTime "0.000"]
+[Result "1-0"]
+[ECCO ""]
+[Opening ""]
+[Variation ""]
+[FEN "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/R1BAKAB1R w - - 0 1"]
+  1. 炮二平五 {score:0 time:625 side:1}
+     象７进５ {score:0 time:1578}
+  2. 车一平二 {score:0 time:1390}
+     马８进６ {score:-750 time:1766}
+  3. 车九进一 {score:-806 time:3187}
+     车９平８ {score:-794 time:688}
+  4. 车九平四 {score:-790 time:672}
+     炮８平６ {score:-820 time:1125}
+  5. 炮五进四 {score:-676 time:687}
+     士６进５ {score:-829 time:672}
+  6. 车二进九 {score:-692 time:672}
+     马６退８ {score:-692 time:672}
+  7. 车四进五 {score:-738 time:719}
+     炮２平４ {score:-738 time:687}
+  8. 炮五退二 {score:-730 time:703}
+     马２进１ {score:-730 time:672}
+  9. 炮五平八 {score:-757 time:688}
+     马８进６ {score:-757 time:687}
+ 10. 相三进五 {score:-732 time:703}
+     马６进８ {score:-732 time:672}
+ 11. 车四平三 {score:-772 time:672}
+     炮６进４ {score:-772 time:672}
+ 12. 车三平二 {score:-741 time:687}
+     炮６平３ {score:-741 time:672}
+ 13. 后炮退一 {score:-761 time:688}
+     炮３平７ {score:-949 time:672}
+ 14. 后炮平二 {score:-734 time:703}
+     车１平２ {score:-734 time:672}
+ 15. 炮八平五 {score:-721 time:687}
+     马８退６ {score:-914 time:688}
+ 16. 车二平四 {score:-765 time:703}
+     车２进８ {score:-765 time:672}
+ 17. 仕四进五 {score:-659 time:687}
+     车２退２ {score:-659 time:672}
+ 18. 车四进二 {score:-639 time:719}
+     车２平５ {score:-665 time:672}
+ 19. 炮五平三 {score:-707 time:687}
+     炮７平１ {score:-707 time:672}
+ 20. 帅五平四 {score:-713 time:688}
+     炮４退１ {score:-713 time:671}
+ 21. 炮二进八 {score:1847 time:688}
+     车５平６ {score:1405 time:672}
+ 22. 车四退五 {score:1916 time:687}
+     士５进４ {score:1411 time:688}
+ 23. 炮三进四 {score:29993 time:687}
+     象５进３ {score:29993 time:688}
+ 24. 车四进六 {score:29995 time:687}
+     将５进１ {score:29995 time:297}
+ 25. 炮二退一 {score:29997 time:672}
+     将５进１ {score:29997 time:281}
+ 26. 车四退二 {黑方被将死,红方胜！
+
+红方分数：29999
+黑方用时：    18.580秒
+红方用时：    20.091秒
+双方实际花费时间：    38.671秒}
+ 1-0

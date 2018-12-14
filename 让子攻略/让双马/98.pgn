@@ -1,0 +1,136 @@
+[Game "Chinese Chess"]
+[Event ""]
+[Round ""]
+[Date "2018.11.13"]
+[Site ""]
+[RedTeam ""]
+[Red "cyclonex"]
+[BlackTeam ""]
+[Black "apo_x64"]
+[TimeControl "*3"]
+[RedTime "0.000"]
+[BlackTime "0.000"]
+[Result "1-0"]
+[ECCO ""]
+[Opening ""]
+[Variation ""]
+[FEN "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/R1BAKAB1R w - - 0 1"]
+  1. 炮二平五 {score:0 time:562 side:1}
+     象７进５ {score:0 time:985}
+  2. 车一平二 {score:0 time:3671}
+     马８进６ {score:-750 time:688}
+  3. 车九进一 {score:-832 time:2969}
+     士６进５ {score:-832 time:672}
+  4. 车九平四 {score:-761 time:687}
+     车９平６ {score:-767 time:672}
+  5. 兵七进一 {score:-810 time:687}
+     马２进３ {score:-800 time:672}
+  6. 车四进四 {score:-842 time:688}
+     炮８平６ {score:-838 time:687}
+  7. 车二进八 {score:-830 time:688}
+     炮２退１ {score:-846 time:703}
+  8. 车四平六 {score:-793 time:672}
+     车６平８ {score:-893 time:672}
+  9. 车二平三 {score:-710 time:687}
+     炮２平１ {score:-710 time:672}
+ 10. 车六进三 {score:-724 time:688}
+     车１平２ {score:-724 time:687}
+ 11. 炮八平七 {score:-759 time:672}
+     车８平６ {score:-759 time:687}
+ 12. 炮五平四 {score:-616 time:688}
+     车２进６ {score:-616 time:687}
+ 13. 炮七进四 {score:-612 time:672}
+     车２平５ {score:-612 time:672}
+ 14. 仕六进五 {score:-603 time:735}
+     象３进１ {score:-603 time:671}
+ 15. 兵三进一 {score:-601 time:688}
+     车５平６ {score:-601 time:672}
+ 16. 炮四平五 {score:-446 time:687}
+     象１进３ {score:-446 time:672}
+ 17. 兵七进一 {score:-423 time:688}
+     前车平５ {score:-423 time:687}
+ 18. 炮七平八 {score:-355 time:688}
+     炮１进５ {score:-355 time:672}
+ 19. 兵七进一 {score:-219 time:687}
+     炮６进１ {score:-219 time:672}
+ 20. 炮八进一 {score:-60 time:687}
+     炮１进３ {score:-60 time:672}
+ 21. 仕五退六 {score:-192 time:688}
+     马３退２ {score:-192 time:672}
+ 22. 车六平八 {score:-202 time:703}
+     炮１平２ {score:-274 time:687}
+ 23. 炮八平九 {score:-222 time:703}
+     炮６进５ {score:-222 time:672}
+ 24. 炮五退一 {score:-42 time:688}
+     炮２退４ {score:-42 time:672}
+ 25. 车八进一 {score:201 time:703}
+     炮２平５ {score:201 time:672}
+ 26. 车八退五 {score:132 time:687}
+     象５退３ {score:132 time:703}
+ 27. 炮九进二 {score:224 time:703}
+     士５进４ {score:224 time:688}
+ 28. 兵七进一 {score:235 time:703}
+     炮６退３ {score:235 time:688}
+ 29. 相七进五 {score:251 time:703}
+     炮６平２ {score:-213 time:672}
+ 30. 炮五进二 {score:330 time:703}
+     炮２平７ {score:-277 time:687}
+ 31. 车三平二 {score:394 time:672}
+     车６平８ {score:-277 time:688}
+ 32. 车二平四 {score:497 time:687}
+     车８进６ {score:-17 time:688}
+ 33. 兵七平六 {score:1243 time:687}
+     车８平５ {score:-25 time:672}
+ 34. 仕四进五 {score:1375 time:687}
+     炮７平８ {score:38 time:704}
+ 35. 兵六进一 {score:1400 time:765}
+     炮８进４ {score:1400 time:719}
+ 36. 相三进一 {score:1422 time:703}
+     车５平４ {score:1173 time:688}
+ 37. 帅五平四 {score:1437 time:703}
+     车４退５ {score:1176 time:687}
+ 38. 车四平六 {score:1433 time:703}
+     炮８平９ {score:1166 time:703}
+ 39. 车六退二 {score:1835 time:688}
+     卒５进１ {score:1835 time:719}
+ 40. 车六退一 {score:1897 time:687}
+     炮５进３ {score:1631 time:688}
+ 41. 仕六进五 {score:1962 time:687}
+     将５进１ {score:1634 time:688}
+ 42. 车六平五 {score:1996 time:687}
+     象３进５ {score:1650 time:688}
+ 43. 相一进三 {score:2017 time:687}
+     卒７进１ {score:1650 time:719}
+ 44. 车五平八 {score:2081 time:687}
+     将５平４ {score:1734 time:688}
+ 45. 车八进三 {score:2174 time:766}
+     将４进１ {score:1747 time:703}
+ 46. 车八退一 {score:2240 time:687}
+     将４退１ {score:1754 time:688}
+ 47. 车八进一 {score:2277 time:687}
+     将４进１ {score:-29999 time:297}
+ 48. 车八退一 {score:2305 time:672}
+     将４退１ {score:-29999 time:297}
+ 49. 车八平五 {score:2335 time:672}
+     炮９退１ {score:1754 time:687}
+ 50. 车五平九 {score:2999 time:719}
+     士４进５ {score:1804 time:687}
+ 51. 炮九退三 {score:29979 time:688}
+     士５退４ {score:1804 time:687}
+ 52. 炮九退五 {score:29985 time:672}
+     炮９进１ {score:1886 time:688}
+ 53. 仕五进六 {score:29991 time:687}
+     卒７进１ {score:1872 time:672}
+ 54. 车九平五 {score:29993 time:688}
+     士４进５ {score:29993 time:343}
+ 55. 炮九平六 {score:29995 time:344}
+     士５进４ {score:29995 time:297}
+ 56. 车五平六 {score:29997 time:359}
+     将４平５ {score:29997 time:313}
+ 57. 炮六平五 {黑方被将死,红方胜！
+
+红方分数：29999
+黑方用时：    36.785秒
+红方用时：    43.059秒
+双方实际花费时间：    79.844秒}
+ 1-0

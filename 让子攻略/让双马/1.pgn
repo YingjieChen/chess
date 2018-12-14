@@ -1,0 +1,48 @@
+[Game "Chinese Chess"]
+[Event ""]
+[Round ""]
+[Date "2018.11.14"]
+[Site ""]
+[RedTeam ""]
+[Red "cyclonex"]
+[BlackTeam ""]
+[Black "apo_x64"]
+[TimeControl "*10"]
+[RedTime "0.000"]
+[BlackTime "0.000"]
+[Result "1-0"]
+[ECCO ""]
+[Opening ""]
+[Variation ""]
+[FEN "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/R1BAKAB1R w - - 0 1"]
+  1. 炮二平五 {score:0 time:906 side:1}
+     炮８平５ {score:285 time:4719}
+  2. 炮五进四 {score:-927 time:8672}
+     炮５进４ {score:-884 time:7171}
+  3. 车一平二 {score:-566 time:7219}
+     马２进３ {score:-749 time:7172}
+  4. 炮五退二 {score:-355 time:7203}
+     马８进９ {score:-753 time:7172}
+  5. 炮八进三 {score:1718 time:7172}
+     卒３进１ {score:223 time:7219}
+  6. 炮八进一 {score:1874 time:7156}
+     将５进１ {score:339 time:7187}
+  7. 车二进八 {score:1931 time:7235}
+     将５进１ {score:336 time:7172}
+  8. 炮八平五 {score:1967 time:7187}
+     将５平６ {score:173 time:7188}
+  9. 前炮退三 {score:1973 time:7234}
+     车９平８ {score:191 time:7188}
+ 10. 车九进一 {score:29993 time:7203}
+     炮２进６ {score:2088 time:7203}
+ 11. 车九平八 {score:29995 time:7156}
+     马３进４ {score:29995 time:297}
+ 12. 车八平四 {score:29997 time:328}
+     马４退６ {score:29997 time:281}
+ 13. 车四进五 {黑方被将死,红方胜！
+
+红方分数：29999
+黑方用时：    69.969秒
+红方用时：    74.093秒
+双方实际花费时间：   144.062秒}
+ 1-0

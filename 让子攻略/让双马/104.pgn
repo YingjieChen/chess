@@ -1,0 +1,98 @@
+[Game "Chinese Chess"]
+[Event ""]
+[Round ""]
+[Date "2018.11.14"]
+[Site ""]
+[RedTeam ""]
+[Red "cyclonex"]
+[BlackTeam ""]
+[Black "apo_x64"]
+[TimeControl "*10"]
+[RedTime "0.000"]
+[BlackTime "0.000"]
+[Result "1-0"]
+[ECCO ""]
+[Opening ""]
+[Variation ""]
+[FEN "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/R1BAKAB1R w - - 0 1"]
+  1. 炮二平五 {score:0 time:656 side:1}
+     炮８平５ {score:-852 time:13703}
+  2. 炮五进四 {score:-925 time:7156}
+     士６进５ {score:-852 time:10218}
+  3. 车一平二 {score:-948 time:16891}
+     马２进３ {score:-862 time:7172}
+  4. 炮五退二 {score:-982 time:7187}
+     马８进９ {score:-845 time:7204}
+  5. 车九进一 {score:-899 time:7171}
+     马３进５ {score:-845 time:7188}
+  6. 兵七进一 {score:-932 time:7219}
+     马５进７ {score:-896 time:7172}
+  7. 相三进五 {score:-981 time:7250}
+     车９平８ {score:-968 time:7171}
+  8. 车二进九 {score:-961 time:7204}
+     马９退８ {score:-935 time:7187}
+  9. 炮八平七 {score:-1037 time:7203}
+     马８进７ {score:-1004 time:7219}
+ 10. 车九平八 {score:-992 time:7203}
+     炮２平１ {score:-969 time:7188}
+ 11. 仕四进五 {score:-1005 time:7203}
+     前马进５ {score:-968 time:7172}
+ 12. 兵五进一 {score:-1007 time:7203}
+     马７进５ {score:-978 time:7172}
+ 13. 车八进四 {score:-1051 time:7250}
+     马５进６ {score:-922 time:7187}
+ 14. 车八平四 {score:-981 time:7219}
+     马６进８ {score:-833 time:7172}
+ 15. 炮七进一 {score:-684 time:7203}
+     马８进９ {score:-755 time:7187}
+ 16. 车四退四 {score:-638 time:7203}
+     卒３进１ {score:-571 time:7172}
+ 17. 兵七进一 {score:-449 time:7219}
+     马９退７ {score:-622 time:7172}
+ 18. 车四进一 {score:-461 time:7219}
+     马７进９ {score:-351 time:7187}
+ 19. 车四平一 {score:-409 time:7188}
+     炮１进４ {score:-373 time:7187}
+ 20. 兵五进一 {score:-371 time:7188}
+     象３进１ {score:-364 time:7187}
+ 21. 兵五进一 {score:-370 time:7250}
+     炮５平７ {score:-356 time:7172}
+ 22. 车一退一 {score:-358 time:7219}
+     象１进３ {score:-379 time:7187}
+ 23. 车一平四 {score:-327 time:7266}
+     炮７进４ {score:-346 time:7187}
+ 24. 车四进四 {score:-330 time:7204}
+     车１平２ {score:-386 time:7218}
+ 25. 车四平七 {score:-317 time:7235}
+     车２进６ {score:-348 time:7187}
+ 26. 炮七进一 {score:-170 time:7203}
+     车２平３ {score:-330 time:7188}
+ 27. 兵五平四 {score:-61 time:7234}
+     象７进５ {score:-251 time:7188}
+ 28. 车七平五 {score:-101 time:7218}
+     炮７平５ {score:-297 time:7188}
+ 29. 车五进二 {score:0 time:7250}
+     卒７进１ {score:-296 time:7203}
+ 30. 炮七平八 {score:12 time:7219}
+     炮５平４ {score:-99 time:7172}
+ 31. 车五退四 {score:11 time:7234}
+     车３平２ {score:-2 time:7172}
+ 32. 炮八平五 {score:186 time:7203}
+     士５进４ {score:0 time:7219}
+ 33. 车五平二 {score:916 time:7203}
+     炮４平６ {score:26 time:7203}
+ 34. 车二进六 {score:29987 time:7203}
+     将５进１ {score:23 time:7172}
+ 35. 车二退一 {score:29989 time:7219}
+     将５退１ {score:87 time:7219}
+ 36. 兵四进一 {score:29991 time:7187}
+     炮６平５ {score:0 time:7172}
+ 37. 兵四进一 {score:29997 time:328}
+     炮５进２ {score:29997 time:297}
+ 38. 车二进一 {黑方被将死,红方胜！
+
+红方分数：29999
+黑方用时：   275.764秒
+红方用时：   277.517秒
+双方实际花费时间：   553.281秒}
+ 1-0

@@ -1,0 +1,71 @@
+[Game "Chinese Chess"]
+[Event ""]
+[Round ""]
+[Date "2018.12.14"]
+[Site ""]
+[RedTeam ""]
+[Red "cyclonex"]
+[BlackTeam ""]
+[Black ""]
+[TimeControl "*5"]
+[RedTime "139.847"]
+[BlackTime "681.732"]
+[Result "*"]
+[ECCO ""]
+[Opening ""]
+[Variation ""]
+[FEN "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1"]
+  1. 炮二平五 {score:0 time:1188 side:1}
+     马８进７ {score:0 time:9422}
+  2. 马二进三 {score:0 time:422}
+     车９平８ {score:0 time:16390}
+  3. 炮八平六 {score:0 time:297}
+     马２进３ {score:0 time:11438}
+  4. 马八进七 {score:0 time:281}
+     卒３进１ {score:0 time:6531}
+  5. 车九平八 {score:0 time:32313}
+     车１平２ {score:0 time:22625}
+  6. 车一平二 {score:0 time:281}
+     炮８进２ {score:0 time:10125}
+  7. 车八进六 {score:0 time:797}
+     马３进４ {score:0 time:9218}
+  8. 车二进四 {score:0 time:766}
+     士４进５ {score:0 time:13016}
+  9. 车二平六 {score:373 time:6000}
+     马４退５ {score:0 time:32250}
+ 10. 车六平八 {score:454 time:6047}
+     炮２进３ {score:0 time:67968}
+ 11. 车八进三 {score:493 time:5907}
+     炮２平６ {score:0 time:45343}
+ 12. 车八平七 {score:593 time:5422}
+     士５退４ {score:0 time:1969}
+ 13. 兵七进一 {score:584 time:4875}
+     卒３进１ {score:0 time:55375}
+ 14. 车七退五 {score:685 time:5906}
+     炮６退４ {score:0 time:17328}
+ 15. 兵三进一 {score:722 time:5407}
+     炮８平５ {score:0 time:68312}
+ 16. 炮六进五 {score:707 time:5344}
+     炮５进３ {score:0 time:53515}
+ 17. 相七进五 {score:703 time:5329}
+     车８进７ {score:0 time:19453}
+ 18. 马三进四 {score:899 time:5406}
+     马７退９ {score:0 time:53047}
+ 19. 马四进六 {score:1157 time:5625}
+     炮６平４ {score:0 time:28203}
+ 20. 炮六平九 {score:1199 time:5406}
+     卒５进１ {score:0 time:52719}
+ 21. 炮九进二 {score:3217 time:4094}
+     将５进１ {score:0 time:9875}
+ 22. 马六进七 {score:3465 time:5312}
+     炮４进１ {score:0 time:16875}
+ 23. 车七平六 {score:3798 time:5313}
+     车８退５ {score:0 time:37281}
+ 24. 车六进三 {score:29983 time:5781}
+     将５平６ {score:0 time:3672}
+ 25. 车六进一 {score:29985 time:5266}
+     士６进５ {score:0 time:9375}
+ 26. 前马进六 {score:29995 time:5265}
+     将６进１ {score:0 time:10407}
+ 27. 车六退二 {score:29997 time:5500}
+ *

@@ -1,0 +1,136 @@
+[Game "Chinese Chess"]
+[Event ""]
+[Round ""]
+[Date "2018.11.13"]
+[Site ""]
+[RedTeam ""]
+[Red "cyclonex"]
+[BlackTeam ""]
+[Black "apo_x64"]
+[TimeControl "*3"]
+[RedTime "0.000"]
+[BlackTime "0.000"]
+[Result "1-0"]
+[ECCO ""]
+[Opening ""]
+[Variation ""]
+[FEN "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/R1BAKAB1R w - - 0 1"]
+  1. 炮二平五 {score:0 time:782 side:1}
+     马８进７ {score:0 time:1406}
+  2. 车一平二 {score:0 time:4734}
+     炮２平５ {score:-853 time:688}
+  3. 炮八进二 {score:-860 time:1953}
+     车９平８ {score:-871 time:687}
+  4. 车二进六 {score:-905 time:672}
+     炮５进４ {score:-873 time:703}
+  5. 仕六进五 {score:-971 time:672}
+     车１进２ {score:-873 time:688}
+  6. 炮八平三 {score:-984 time:718}
+     车１平４ {score:-870 time:719}
+  7. 车九平八 {score:-1043 time:672}
+     车４平２ {score:-763 time:688}
+  8. 车八进七 {score:-938 time:687}
+     炮８平２ {score:-677 time:672}
+  9. 车二平三 {score:-965 time:687}
+     车８进４ {score:-672 time:704}
+ 10. 炮三进三 {score:-770 time:671}
+     炮２进７ {score:-770 time:688}
+ 11. 相七进九 {score:-794 time:672}
+     车８平５ {score:-794 time:672}
+ 12. 炮三平二 {score:-696 time:797}
+     象３进５ {score:-696 time:687}
+ 13. 车三退二 {score:-751 time:703}
+     卒３进１ {score:-751 time:672}
+ 14. 车三平八 {score:-377 time:688}
+     炮２平１ {score:-377 time:687}
+ 15. 车八进五 {score:-331 time:719}
+     炮１退３ {score:-331 time:672}
+ 16. 车八退三 {score:-114 time:672}
+     士６进５ {score:-114 time:687}
+ 17. 炮二进二 {score:0 time:672}
+     象７进９ {score:0 time:672}
+ 18. 车八平九 {score:0 time:734}
+     炮１平２ {score:0 time:672}
+ 19. 车九平六 {score:9 time:750}
+     将５平６ {score:9 time:672}
+ 20. 炮二平一 {score:0 time:687}
+     炮２退４ {score:0 time:688}
+ 21. 帅五平六 {score:0 time:687}
+     炮５平６ {score:0 time:672}
+ 22. 炮五进四 {score:20 time:703}
+     炮２平４ {score:20 time:672}
+ 23. 帅六平五 {score:19 time:688}
+     车５平６ {score:19 time:672}
+ 24. 车六退三 {score:51 time:687}
+     炮６平９ {score:51 time:672}
+ 25. 兵三进一 {score:90 time:688}
+     车６退１ {score:90 time:671}
+ 26. 炮五退四 {score:78 time:719}
+     炮９退２ {score:78 time:672}
+ 27. 炮五平四 {score:74 time:688}
+     将６平５ {score:97 time:671}
+ 28. 车六平二 {score:190 time:688}
+     炮９平５ {score:190 time:672}
+ 29. 相三进五 {score:210 time:687}
+     士５进６ {score:117 time:688}
+ 30. 炮四平二 {score:222 time:719}
+     车６进４ {score:222 time:703}
+ 31. 车二进六 {score:1114 time:718}
+     将５进１ {score:55 time:688}
+ 32. 车二退一 {score:1160 time:687}
+     将５退１ {score:1160 time:688}
+ 33. 炮二进四 {score:1151 time:687}
+     车６退４ {score:1151 time:672}
+ 34. 车二进一 {score:1174 time:719}
+     将５进１ {score:1174 time:719}
+ 35. 炮二进二 {score:1169 time:703}
+     象５退３ {score:377 time:687}
+ 36. 车二平三 {score:1190 time:704}
+     车６平８ {score:1190 time:687}
+ 37. 车三退一 {score:1482 time:672}
+     将５进１ {score:1094 time:703}
+ 38. 炮一平二 {score:1510 time:688}
+     车８退２ {score:1133 time:703}
+ 39. 车三平二 {score:1532 time:672}
+     炮５平９ {score:1133 time:687}
+ 40. 炮二平七 {score:1545 time:953}
+     炮９进５ {score:1154 time:688}
+ 41. 相五退三 {score:1579 time:703}
+     炮４进３ {score:1177 time:750}
+ 42. 车二退二 {score:1941 time:687}
+     炮９退４ {score:1941 time:703}
+ 43. 车二平五 {score:3274 time:704}
+     将５平４ {score:3274 time:687}
+ 44. 仕五进四 {score:29961 time:703}
+     炮４平５ {score:2189 time:672}
+ 45. 兵三进一 {score:29965 time:703}
+     将４退１ {score:2288 time:688}
+ 46. 车五退二 {score:29971 time:765}
+     士４进５ {score:2292 time:688}
+ 47. 车五平一 {score:29973 time:687}
+     象９进７ {score:2292 time:703}
+ 48. 车一进二 {score:29975 time:766}
+     将４退１ {score:2321 time:688}
+ 49. 车一进三 {score:29983 time:687}
+     将４进１ {score:2321 time:688}
+ 50. 炮七平三 {score:29985 time:671}
+     象７退５ {score:2361 time:688}
+ 51. 炮三退一 {score:29987 time:687}
+     士５进４ {score:29987 time:704}
+ 52. 车一平四 {score:29989 time:671}
+     卒３进１ {score:29989 time:688}
+ 53. 兵七进一 {score:29991 time:687}
+     将４平５ {score:29991 time:969}
+ 54. 车四退二 {score:29993 time:578}
+     将５退１ {score:29993 time:344}
+ 55. 车四平五 {score:29995 time:391}
+     士４退５ {score:29995 time:312}
+ 56. 车五退六 {score:29997 time:422}
+     将５平６ {score:29997 time:313}
+ 57. 车五进七 {黑方困毙,红方胜！
+
+红方分数：29999
+黑方用时：    38.396秒
+红方用时：    43.572秒
+双方实际花费时间：    81.968秒}
+ 1-0
